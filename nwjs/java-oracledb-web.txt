@@ -1,0 +1,19 @@
+# spring init -d=web java-oracledb
+# cd java-oracledb
+# npm init
+# npm install nw --nwjs_build_type=sdk --save-dev
+
+# npm install java --msvs_version=2013 --save
+# npm install -g nw-gyp
+# cd node_modules/java
+# nw-gyp configure --target=0.18.8
+# nw-gyp build --target=0.18.8
+
+# npm install oracledb --save
+# cd node_modules/oracledb
+# nw-gyp configure --target=0.18.8
+# nw-gyp build --target=0.18.8
+
+# "node-remote": "*://*"
+# npm start
+# npm run nw

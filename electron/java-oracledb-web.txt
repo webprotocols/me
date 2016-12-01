@@ -1,0 +1,26 @@
+# git clone https://github.com/electron/electron-quick-start java-oracledb
+# cd java-oracledb
+# npm install && npm start
+
+# spring init -d=web
+# unzip demo.zip
+
+# npm install java --msvs_version=2013 --save
+
+#set OCI_INC_DIR=C:\app\oracle\product\12.1.0\dbhome_1\OCI\include
+#set OCI_LIB_DIR=C:\app\oracle\product\12.1.0\dbhome_1\OCI\lib\MSVC
+#set ORACLE_HOME=C:\oraclexe\instantclient_12_1
+
+# set OCI_LIB_DIR=C:\oraclexe\instantclient_12_1\sdk\lib\msvc
+# set OCI_INC_DIR=C:\oraclexe\instantclient_12_1\sdk\include
+# set ORACLE_HOME=C:\oraclexe\instantclient_12_1
+# set PATH=%ORACLE_HOME%;~~~~~
+
+# npm install oracledb --msvs_version=2013 --save
+# npm install electron-rebuild --save-dev
+# .\node_modules\.bin\electron-rebuild -f
+
+# http://localhost:8080/index.html
+# require(process.cwd() + "/" + './renderer.js')
+# npm start
+# npm run electron

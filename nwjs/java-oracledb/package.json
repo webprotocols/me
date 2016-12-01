@@ -1,0 +1,19 @@
+{
+  "name": "java-oracledb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nw": "^0.18.8"
+  },
+  "dependencies": {
+    "java": "^0.8.0",
+    "oracledb": "^1.11.0"
+  }
+}
